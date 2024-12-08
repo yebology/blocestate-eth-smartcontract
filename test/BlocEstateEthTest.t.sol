@@ -6,7 +6,7 @@ import { Test } from "forge-std/Test.sol";
 
 contract BlocEstateEthTest is Test {
     //
-    
+
     //
 }
 
